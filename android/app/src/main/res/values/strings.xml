@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">IronMap</string>
+    <string name="title_activity_main">IronMap</string>
+    <string name="package_name">com.timclarke.ironmap</string>
+    <string name="custom_url_scheme">com.timclarke.ironmap</string>
+</resources>

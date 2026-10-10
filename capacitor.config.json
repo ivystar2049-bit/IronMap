@@ -1,0 +1,8 @@
+{
+  "appId": "com.timclarke.ironmap",
+  "appName": "IronMap",
+  "webDir": "dist",
+  "android": {
+    "androidScheme": "https"
+  }
+}
